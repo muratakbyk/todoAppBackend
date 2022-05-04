@@ -87,7 +87,19 @@ This project is a backend service developed for the todo application.
 </tbody>
 </table>
 
+# Database Relationship
 
-# JunitTests
+![image](https://user-images.githubusercontent.com/64757434/166813286-767dd48f-a71a-460d-a181-990efe8f7c38.png)
+
+
+
+# Junit Tests
 ![image](https://user-images.githubusercontent.com/64757434/166705547-f23a573c-2c72-4ab5-b621-f2fbccc4b082.png)
+
+
+
+
+
+
+
 
