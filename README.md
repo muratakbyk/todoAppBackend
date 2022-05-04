@@ -27,17 +27,24 @@ This project is a backend service developed for the todo application.
 # SwaggerTest
 ![ezgif-2-1a657b548c](https://user-images.githubusercontent.com/64757434/166702675-82ecb888-bb57-4542-9c65-cbf2e8f9fb4b.gif)
 
-1- First you should register the app.
 
-2- You can login with your email and password.
 
-3- You can create a task.
+<ul>
+  <li>First you should register the app</li>
+ 
+  <li>Login with your email and password</li>
+ 
+  <li>Create a task</li>
+ 
+  <li>Update your task</li>
+ 
+  <li>Get all your tasks</li>
+ 
+ <li>Delete your task</li>
+</ul>
 
-4- You can update your task.
 
-5- You can check your task.
 
-6- You can delete your task.
 
 # PostmanCollection Link
 <a href="https://www.getpostman.com/collections/ba589e284fe176a7d2cb">Postman Collection</a>
