@@ -19,6 +19,7 @@ This project is a backend service developed for the todo application.
 
 # Live
 <a href="https://todoappmurat.herokuapp.com/swagger-ui/index.html">Live App</a>
+(It may take a few minutes to load)
 
 # SwaggerTest
 ![ezgif-2-1a657b548c](https://user-images.githubusercontent.com/64757434/166702675-82ecb888-bb57-4542-9c65-cbf2e8f9fb4b.gif)
