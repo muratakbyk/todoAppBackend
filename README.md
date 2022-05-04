@@ -30,7 +30,7 @@ This project is a backend service developed for the todo application.
 5- You can check your task.
 6- You can delete your task.
 
-# PostmanCollectionLink
+# PostmanCollection Link
 <a href="https://www.getpostman.com/collections/ba589e284fe176a7d2cb">Postman Collection</a>
 
 # Database Connection
