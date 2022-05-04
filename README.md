@@ -1,21 +1,25 @@
 # PROJECT
 This project is a backend service developed for the todo application.
 # Stack Technologies
--Java 16
 
--SpringBoot
+<ul>
+  <li>Java 16</li>
+ 
+  <li>Spring Boot</li>
+ 
+  <li>Spring Security</li>
+ 
+  <li>Spring Data JPA</li>
+ 
+  <li>H2</li>
+ 
+  <li>Swagger</li>
+  
+  <li>Maven</li>
+  
+  <li>JUnit</li>
+</ul>
 
--SpringSecurity
-
--SpringData JPA
-
--H2
-
--Swagger
-
--Maven
-
--Junit
 
 # Live
 <a href="https://todoappmurat.herokuapp.com/swagger-ui/index.html">Live App</a>
