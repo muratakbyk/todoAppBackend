@@ -1,6 +1,6 @@
 # PROJECT
 This project is a backend service developed for the todo application.
-# STACK
+# Stack Technologies
 -Java 16
 
 -SpringBoot
