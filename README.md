@@ -94,8 +94,7 @@ This project is a backend service developed for the todo application.
 
 
 # Junit Tests
-![image](https://user-images.githubusercontent.com/64757434/166705547-f23a573c-2c72-4ab5-b621-f2fbccc4b082.png)
-
+![image](https://user-images.githubusercontent.com/64757434/166814808-9f276f09-58d6-4476-85e1-ac81c3c6d364.png)
 
 
 
