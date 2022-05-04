@@ -97,8 +97,3 @@ This project is a backend service developed for the todo application.
 ![image](https://user-images.githubusercontent.com/64757434/166814808-9f276f09-58d6-4476-85e1-ac81c3c6d364.png)
 
 
-
-
-
-
-
