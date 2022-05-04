@@ -46,8 +46,8 @@ This project is a backend service developed for the todo application.
 
 
 
-# PostmanCollection Link
-<a href="https://www.getpostman.com/collections/ba589e284fe176a7d2cb">Postman Collection</a>
+# Postman Collection Link
+<a href="https://www.getpostman.com/collections/ba589e284fe176a7d2cb">Postman Collections</a>
 
 # Database Connection
 <table>
