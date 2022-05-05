@@ -20,7 +20,6 @@ import java.util.List;
 
 
 @Service
-@RequiredArgsConstructor
 public class TaskServiceImp implements TaskService {
 
     @Autowired
