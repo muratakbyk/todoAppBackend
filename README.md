@@ -34,6 +34,8 @@ This project is a backend service developed for the todo application.
 ![ezgif-2-1a657b548c](https://user-images.githubusercontent.com/64757434/166702675-82ecb888-bb57-4542-9c65-cbf2e8f9fb4b.gif)
 
 
+# How it works ?
+
 
 <ul>
   <li>First you should register the app</li>
