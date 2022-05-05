@@ -42,7 +42,7 @@ This project is a backend service developed for the todo application.
  
   <li>Create a task</li>
   
-  <li>Get all your tasks and see your tasks information.</li>
+  <li>Get all your tasks and see your task informations.</li>
  
   <li>Update your task</li>
  
