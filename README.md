@@ -10,6 +10,8 @@ This project is a backend service developed for the todo application.
   <li>Spring Security</li>
  
   <li>Spring Data JPA</li>
+  
+  <li>Lombok</li>
  
   <li>H2</li>
  
