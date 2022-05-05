@@ -41,12 +41,16 @@ This project is a backend service developed for the todo application.
   <li>Login with your email and password</li>
  
   <li>Create a task</li>
+  
+  <li>Get all your tasks and see your tasks information.</li>
  
   <li>Update your task</li>
  
-  <li>Get all your tasks</li>
+  <li>Get all your tasks to check your updates.</li>
  
  <li>Delete your task</li>
+  
+  <li>Get all your tasks to see which tasks you deleted.</li>
 </ul>
 
 
