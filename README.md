@@ -62,6 +62,10 @@ This project is a backend service developed for the todo application.
 <a href="https://www.getpostman.com/collections/ba589e284fe176a7d2cb">Postman Collections</a>
 
 # Database Connection
+
+application.properties file: 
+
+
 <table>
 <thead>
 <tr>
@@ -78,7 +82,7 @@ This project is a backend service developed for the todo application.
  </tr>
   <tr>
  <td align="left"><code>spring.datasource.url</code></td>
- <td align="left">jdbc:h2:mem:memDb;DB_CLOSE_DELAY=-1</td>
+ <td align="left">jdbc:h2:mem:memDb</td>
  </tr>
   <tr>
  <td align="left"><code>spring.datasource.driver-class-name</code></td>
@@ -91,6 +95,7 @@ This project is a backend service developed for the todo application.
    <tr>
  <td align="left"><code>spring.datasource.password</code></td>
  <td align="left"></td>
+     
  </tr>
 </tbody>
 </table>
