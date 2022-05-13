@@ -29,7 +29,8 @@ public class Task {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd HH:mm:ss")
     private Date taskDate;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.EAGER,optional = false)
+    @JoinColumn(name = "task_user",referencedColumnName = "id",nullable = false)
     @JsonIgnore
     private User user;
 
