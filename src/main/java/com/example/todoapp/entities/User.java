@@ -31,7 +31,7 @@ public class User {
     @Column(name="password",nullable = false)
     private String password;
 
-    @OneToMany
+    @OneToMany(cascade = CascadeType.ALL,mappedBy = "user")
     private List<Task> tasks;
 
 
